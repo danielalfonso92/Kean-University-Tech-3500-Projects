@@ -11,6 +11,6 @@ http://eve.kean.edu/~alfondan/Project2MainPage.html
 Description: A front-end prototype of an E-commerce website that incorporates another hobby of mine
 
 Project #3
-http://eve.kean.edu/~myname/MyProject3.html
+http://eve.kean.edu/~alfondan/FinalProjectMain.html
 
-Description: A complete "Web Dev Story" that adopts a Design Thinkin that aims to ease the stress of air travel.  
+Description: A complete "Web Dev Story" that adopts Design Thinking with the aim to ease the stress of air travel 
